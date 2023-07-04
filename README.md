@@ -8,7 +8,7 @@ Saikrishna Karra  - 16010120075
 Ved Shrirao         - 16010320014
 
 
-
+The folder uploaded is the src folder
 Steps:
 1. Run the final.py code.
 2. Run the react code.
