@@ -1,4 +1,4 @@
-# Placecon_Edelweiss
+# Placecon
 
 Contributors:
 Niraj Patil            - 16010320052
